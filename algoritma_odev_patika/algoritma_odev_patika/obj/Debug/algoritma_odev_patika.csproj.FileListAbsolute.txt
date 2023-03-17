@@ -1,0 +1,8 @@
+C:\Users\gokha\Desktop\PROJLER\algoritma_odev_patika\algoritma_odev_patika\bin\Debug\algoritma_odev_patika.exe.config
+C:\Users\gokha\Desktop\PROJLER\algoritma_odev_patika\algoritma_odev_patika\bin\Debug\algoritma_odev_patika.exe
+C:\Users\gokha\Desktop\PROJLER\algoritma_odev_patika\algoritma_odev_patika\bin\Debug\algoritma_odev_patika.pdb
+C:\Users\gokha\Desktop\PROJLER\algoritma_odev_patika\algoritma_odev_patika\obj\Debug\algoritma_odev_patika.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\PROJLER\algoritma_odev_patika\algoritma_odev_patika\obj\Debug\algoritma_odev_patika.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokha\Desktop\PROJLER\algoritma_odev_patika\algoritma_odev_patika\obj\Debug\algoritma_odev_patika.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\PROJLER\algoritma_odev_patika\algoritma_odev_patika\obj\Debug\algoritma_odev_patika.exe
+C:\Users\gokha\Desktop\PROJLER\algoritma_odev_patika\algoritma_odev_patika\obj\Debug\algoritma_odev_patika.pdb
